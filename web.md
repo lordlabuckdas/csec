@@ -6,6 +6,8 @@
 
 ## blogs
 
+* [ ] [daffainfo's bugbounty notes](https://github.com/daffainfo/AllAboutBugBounty)
+
 ## labs
 
 * [x] [mutllidae](https://github.com/webpwnized/mutillidae)
