@@ -1,0 +1,20 @@
+* dufferzafar's [notes](https://github.com/dufferzafar/notes)
+* ritwiz's [resources](https://github.com/ritwizsinha/Rezources)
+* netflix prize - [winning solution](https://www.netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf)
+* cryptax's [notes](https://github.com/cryptax/techweb)
+* [1lib](https://1lib.in/)
+* [fourier transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
+* nikita volobolev's [knowledge](https://github.com/nikitavoloboev/knowledge)
+* [ml mindmap](https://github.com/dformoso/machine-learning-mindmap)
+* [dl mindmap](https://github.com/dformoso/deeplearning-mindmap)
+* [akshat's yugabyte blog](https://blog.yugabyte.com/why-i-joined-yugabyte-akshat/)
+* [things a backend engineer must know](https://news.ycombinator.com/item?id=27710097)
+* [aditya sharma's cs notes](https://github.com/sharmaaditya570191/computer-science-notes)
+* [list of opportunities](https://github.com/vibalijoshi/List-of-Opportunities)
+* [aditya verma's resources](https://github.com/Verma314/Resources)
+* [dealing with master's applications](https://medium.com/@aviral.ag/dealing-with-masters-applications-part-1-6ee151295ed3)
+
+## personal websites
+
+* [xdavidhu](https://github.com/xdavidhu/xdavidhu.me)
+* [dk](https://github.com/DhavalKapil/dhavalkapil.github.io)

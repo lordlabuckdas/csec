@@ -4,6 +4,8 @@
 
 ## blogs
 
+* [dns resolution](https://levelup.gitconnected.com/digging-into-dns-resolution-with-dig-3e9498ff1a57)
+
 ## labs
 
 ## courses

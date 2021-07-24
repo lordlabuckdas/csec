@@ -1,5 +1,0 @@
-* dufferzafar's [notes](https://github.com/dufferzafar/notes)
-* ritwiz's [resources](https://github.com/ritwizsinha/Rezources)
-* netflix prize - [winning solution](https://www.netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf)
-* cryptax's [notes](https://github.com/cryptax/techweb)
-* [1lib](https://1lib.in/)

@@ -2,6 +2,8 @@
 
 ## blogs
 
+* [cred's sec](https://blog.cred.club/team-cred/tech/the-peanut-butter-and-jelly-in-cloud-security/)
+
 ## labs
 
 ## publications
